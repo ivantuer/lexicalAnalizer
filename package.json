@@ -1,0 +1,26 @@
+{
+  "name": "lexicalanalizer",
+  "version": "1.0.0",
+  "description": "lexical analizer for assemly language",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivantuer/lexicalAnalizer.git"
+  },
+  "keywords": [
+    "lexical",
+    "analizer",
+    "assembly",
+    "language"
+  ],
+  "author": "Ivan Hrynevytskyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivantuer/lexicalAnalizer/issues"
+  },
+  "homepage": "https://github.com/ivantuer/lexicalAnalizer#readme"
+}
